@@ -1,5 +1,5 @@
 # mmurhsf_mobileapp
-
+This is a digital solution that enables fellowships and clubs manage their members and events. Find the figma design here: https://www.figma.com/proto/FOfMAMkHXGFqLLyPUsc9aG/Untitled?node-id=97-372&p=f&t=FprkYR12Iye88Iul-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=37%3A54&show-proto-sidebar=1
 A new Flutter project.
 
 ## Getting Started
